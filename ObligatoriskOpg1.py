@@ -1,5 +1,6 @@
 # Library Management System
-# Demonstrates OOP: Encapsulation, Inheritance, Polymorphism
+# This is a simple library management system that allows adding, removing, and updating books and members.
+# It also allows issuing and returning books to/from members. The system is designed to be extensible and easy to use.
 
 # Book class to represent a book in the library
 class Book:
